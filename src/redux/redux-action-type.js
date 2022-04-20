@@ -1,0 +1,5 @@
+//export const ACTION_NAME = 'ACTION_NAME'
+export const MODAL_SHOW = 'MODAL_SHOW'
+export const SET_SESSION = 'SET_SESSION'
+export const SET_APP_TITLE = 'SET_APP_TITLE'
+export const SET_SHOW_IFRAME = 'SET_SHOW_IFRAME'

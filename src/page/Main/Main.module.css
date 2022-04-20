@@ -1,0 +1,28 @@
+.header{
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+}
+
+.footerMenu{
+    position: fixed;
+    width: 100vw;
+    bottom: 0px;
+    left: 0px;
+}
+
+.footerBtn{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.footerBtnText{
+    line-height: 1.2;
+    white-space: pre-wrap;
+}
+
+.logoutBtn{
+    font-size: 1rem;
+    padding: .7rem;
+    border-radius: 15px;
+}
